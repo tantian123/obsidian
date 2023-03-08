@@ -1,0 +1,20 @@
+redisTemplate.opsForValue
+
+redisTemplate.opsForHash 拿到的是关于hash的操作
+
+
+redisTemplate.opsForValue().set(Object,Object)
+Object通过序列化后，作为key存储到redis中
+key的序列化器默认是JDK的序列化器
+
+所以直接传key是不好的，可读性差。
+
+解决方案：
+1.如果key是String类型，可以采用getBytes作为序列化器，即StringRedisSerializer。
+2.如果value是对象，可以采用转json字符串类型的序列化器，即jackson2Json的RedisSerializer（springmvc自带jackson的依赖）
+最好的办法是采用自定义的String序列化器，因为json序列化器会把类路径也加载进redis，占用更多空间
+spring默认提供了StringRedisTemplate类，默认使用String序列化器序列化
+
+在工程下，替代配置文件，
+@Configuration 
+RedisConfig下创建自定义的RedisTemplate
