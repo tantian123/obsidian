@@ -80,6 +80,88 @@
             }
           },
           {
+            "id": "803d9f0dfce85664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maven/maven解决jar包冲突.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37ffa4387705769d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maven/maven总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11ead532860a8a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maven/pom文件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca975676883606c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maven/maven总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d140df1a38b8a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础/面向对象的理解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b49cb9d522c34980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/rpc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fbd8482afa63b2d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230318001007.png"
+              }
+            }
+          },
+          {
             "id": "48a6de1cb64de6cb",
             "type": "leaf",
             "state": {
@@ -193,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考或者是学习/记忆概念的方式.md",
+                "file": "架构/rpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +323,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -307,7 +389,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思考或者是学习/记忆概念的方式.md",
+                "file": "架构/rpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考或者是学习/记忆概念的方式.md"
+                "file": "架构/rpc.md"
               }
             }
           },
@@ -361,9 +443,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19306c1c0b9828d4",
+  "active": "b49cb9d522c34980",
   "lastOpenFiles": [
+    "架构/nosql.md",
+    "架构/rpc.md",
     "基础/面向对象的理解.md",
+    "架构/ddd.md",
+    "maven/maven总结.md",
+    "maven/pom文件.md",
+    "maven/maven解决jar包冲突.md",
+    "架构/COLA架构.md",
+    "Pasted image 20230318151542.png",
+    "Pasted image 20230318151536.png",
+    "Pasted image 20230318151530.png",
+    "Pasted image 20230318151459.png",
+    "Pasted image 20230318151449.png",
+    "基础/反射.md",
+    "maven/springboot项目的pom.md",
+    "Pasted image 20230318001007.png",
+    "Pasted image 20230318001149.png",
+    "Pasted image 20230318000936.png",
+    "Pasted image 20230318000744.png",
+    "Pasted image 20230318000729.png",
     "思考或者是学习/记忆概念的方式.md",
     "思考或者是学习/5W1H法则或者是7W1H.md",
     "思考或者是学习",
@@ -383,15 +484,6 @@
     "设计模式/导论.md",
     "设计模式/建造器模式.md",
     "设计模式/设计原则.md",
-    "基础/反射.md",
-    "基础/注解.md",
-    "docker",
-    "架构/nosql.md",
-    "架构/学习路线.md",
-    "软件安装/zookeeper安装.md",
-    "软件安装/unbuntu下redis安装.md",
-    "软件安装/jdk安装.md",
-    "软件安装/vim用法.md",
-    "springboot/AOP.md"
+    "docker"
   ]
 }
