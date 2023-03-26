@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础/面向对象的理解.md",
+                "file": "架构/rpc的实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d577fe4e098e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/github上传项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,18 +86,6 @@
               "type": "markdown",
               "state": {
                 "file": "思考或者是学习/记忆概念的方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "803d9f0dfce85664",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maven/maven解决jar包冲突.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,6 +146,90 @@
               "type": "markdown",
               "state": {
                 "file": "架构/rpc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ffe5261b94654f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/rpc的实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05fb1e06a2a62486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/rpc的实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80a4cb1ce3e32a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/rpc的实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cab80cef3497655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "思考或者是学习/提升解决问题的能力.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9421ac2b217d0fe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础/序列化和反序列化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f11441f03a1476ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/rpc的实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48462735ac6dd314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "架构/netty.md",
                 "mode": "source",
                 "source": false
               }
@@ -275,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/rpc.md",
+                "file": "git/github上传项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +407,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -389,7 +473,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/rpc.md",
+                "file": "git/github上传项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -412,7 +496,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/rpc.md"
+                "file": "git/github上传项目.md"
               }
             }
           },
@@ -443,11 +527,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b49cb9d522c34980",
+  "active": "d9d577fe4e098e30",
   "lastOpenFiles": [
-    "架构/nosql.md",
+    "Pasted image 20230327004039.png",
+    "架构/rpc的实现.md",
+    "git/github上传项目.md",
+    "git",
     "架构/rpc.md",
+    "架构/zookeeper.md",
+    "架构/netty.md",
     "基础/面向对象的理解.md",
+    "Pasted image 20230326221129.png",
+    "基础/注解.md",
+    "基础/序列化和反序列化2.md",
+    "基础/序列化和反序列化.md",
+    "基础/什么是api.md",
+    "基础/反射.md",
+    "思考或者是学习/提升解决问题的能力.md",
+    "架构/动态代理.md",
+    "架构/nosql.md",
     "架构/ddd.md",
     "maven/maven总结.md",
     "maven/pom文件.md",
@@ -458,13 +556,11 @@
     "Pasted image 20230318151530.png",
     "Pasted image 20230318151459.png",
     "Pasted image 20230318151449.png",
-    "基础/反射.md",
     "maven/springboot项目的pom.md",
     "Pasted image 20230318001007.png",
     "Pasted image 20230318001149.png",
     "Pasted image 20230318000936.png",
     "Pasted image 20230318000744.png",
-    "Pasted image 20230318000729.png",
     "思考或者是学习/记忆概念的方式.md",
     "思考或者是学习/5W1H法则或者是7W1H.md",
     "思考或者是学习",
@@ -473,17 +569,6 @@
     "React",
     "操作系统/协程.md",
     "无关技术",
-    "软件安装/kafka安装.md",
-    "docker/docker部署mysql.md",
-    "docker/基础.md",
-    "java多线程/CompletableFuture.md",
-    "IO/java网络编程.md",
-    "项目基础/邮件发送的基本概念.md",
-    "项目基础/springboot发送邮件.md",
-    "设计模式/模板模式.md",
-    "设计模式/导论.md",
-    "设计模式/建造器模式.md",
-    "设计模式/设计原则.md",
     "docker"
   ]
 }
