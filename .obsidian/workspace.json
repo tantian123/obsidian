@@ -4,155 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "0f6df96230976cd0",
+        "id": "397f0982173877e5",
         "type": "tabs",
         "children": [
           {
-            "id": "6605da6b3a01cd01",
+            "id": "a916cd00552a7b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-04-18.md",
+                "file": "面试/系统设计/分布式定时任务.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "分布式定时任务"
             }
           },
           {
-            "id": "d24e1e3055df8169",
+            "id": "7659696bc8e4120c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "系统设计题/系统设计的核心.md",
+                "file": "数据库/数据库系统内幕.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "数据库系统内幕"
             }
           },
           {
-            "id": "d9d3225e4147cbbf",
+            "id": "0a9eea8c33e9ba85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2023-04-24.md",
+                "file": "数据库/mvcc第二视角.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mvcc第二视角"
             }
           },
           {
-            "id": "01b596135782a274",
+            "id": "8aa7a70db096cbda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juc/锁/ReentrantLock.md",
+                "file": "面试/JVM/目录.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "目录"
             }
           },
           {
-            "id": "d7c423346303c7b1",
+            "id": "f82aa4436b77cc3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juc/目录.md",
+                "file": "面试/数据库/mysql/事务.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "事务"
             }
           },
           {
-            "id": "971bbf83a9d77435",
+            "id": "4f9023260455a430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juc/锁/锁.md",
+                "file": "编程/spring/元编程.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "元编程"
             }
           },
           {
-            "id": "5fee08c2b7c1aacd",
+            "id": "1927f422b9b98dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juc/目录.md",
+                "file": "编程/spring/ioc.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ioc"
             }
           },
           {
-            "id": "31452a99e20d681d",
+            "id": "28f57566dc9fda95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "juc/锁/锁.md",
+                "file": "面试/系统设计/分布式锁.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "分布式锁"
             }
           },
           {
-            "id": "e0708464d3904b1f",
+            "id": "9d67d649602dfb86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "juc/目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dee0de669dd8294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/github上传项目.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0291ed8830881409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2023-04-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b4a300db0b2251a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "密码学/哈希函数.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +150,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -181,13 +161,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -195,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -203,14 +187,26 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "2655ca6d9dca8e19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 320.5
   },
   "right": {
     "id": "7ba77997bb5ed5f2",
@@ -226,10 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/github上传项目.md",
+                "file": "面试/java基础/反射.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "反射 的出链列表"
             }
           },
           {
@@ -240,17 +238,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "38fe12a9ed9700d4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "git/github上传项目.md"
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -258,7 +248,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -267,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/github上传项目.md",
+                "file": "数据库/mvcc第二视角.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +267,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "mvcc第二视角 的反向链接列表"
             }
           },
           {
@@ -283,15 +277,43 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6af40ef3bc516b05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "38fe12a9ed9700d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面试/java基础/反射.md"
+              },
+              "icon": "lucide-list",
+              "title": "反射 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,60 +325,66 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2dee0de669dd8294",
+  "active": "0a9eea8c33e9ba85",
   "lastOpenFiles": [
-    "日记/2023-04-25.md",
-    "juc/锁/ReadWriteLock.md",
-    "juc/锁/locksupport.md",
-    "juc/锁/锁.md",
-    "juc/目录.md",
-    "juc/锁/aqs.md",
-    "Pasted image 20230425231045.png",
-    "juc/锁/StampedLock.md",
-    "juc/未命名.md",
-    "juc/锁",
-    "juc/锁/condition.md",
-    "juc/锁/ReentrantLock.md",
-    "Pasted image 20230425204242.png",
-    "Pasted image 20230425204222.png",
-    "Pasted image 20230318151530.png",
-    "Pasted image 20230327233915.png",
-    "Pasted image 20230425204104.png",
-    "日记/2023-04-24.md",
-    "日记/2023-04-18.md",
-    "系统设计题/系统设计的核心.md",
-    "juc",
-    "系统设计题/秒杀系统场景.md",
-    "系统设计题/短地址设计.md",
-    "日记/2023-04-19.md",
-    "密码学/哈希函数.md",
-    "密码学",
-    "未命名 1.md",
-    "系统设计题",
-    "未命名.md",
-    "日记/2023-04-17.md",
-    "python/基本环境搭建.md",
-    "python",
-    "日记/2023-W14.md",
-    "日记/2023-04-16.md",
-    "日记/2023-04-15.md",
-    "日记",
-    "未命名 3.canvas",
-    "未命名 4.canvas",
-    "未命名 2.canvas",
-    "2023-04-16.md",
-    "未命名 1.canvas",
-    "00942B36.png",
-    "24B521F4.png",
-    "未命名.canvas",
-    "操作系统/java并发编程",
-    "spring",
-    "Pasted image 20230327233639.png",
-    "ai",
-    "Pasted image 20230327200644.png",
-    "git"
+    "数据库/mvcc并发控制.md",
+    "日记/2024-11-24.md",
+    "数据库/mvcc第二视角.md",
+    "IO/Pasted image 20241124224338.png",
+    "IO/Pasted image 20241124224321.png",
+    "数据库/目录.md",
+    "数据库/七周七数据库.md",
+    "数据库/数据库思维导图.md",
+    "数据库/数据库系统内幕.md",
+    "数据库/思考思路.md",
+    "数据库/索引.md",
+    "数据库/B树.md",
+    "数据库/LSM.md",
+    "数据库/杂记.md",
+    "面试/数据库/mysql/索引.md",
+    "未命名 19.canvas",
+    "面试/spring/spring/ioc.md",
+    "面试/系统设计/分布式定时任务.md",
+    "面试/数据库/mysql/1.面试题.md",
+    "IO/Pasted image 20241123220414.png",
+    "IO/Pasted image 20241123215925.png",
+    "IO/Pasted image 20241123215919.png",
+    "IO/Pasted image 20241123215621.png",
+    "IO/Pasted image 20241123204016.png",
+    "未命名 18.canvas",
+    "日记/2024-11-23.md",
+    "数据库/资料.md",
+    "数据库/mysql.md",
+    "未命名 17.canvas",
+    "日记/2024-11-20.md",
+    "日记/2024-11-19.md",
+    "日记/2024-11-18.md",
+    "日记/2024-11-13.md",
+    "面试/java基础/变量基础.md",
+    "Excalidraw/Drawing 2024-11-13 21.50.14.excalidraw.md",
+    "Excalidraw",
+    "IO/Pasted image 20241111214848.png",
+    "IO/Pasted image 20241111214433.png",
+    "数据库/clickhouse",
+    "数据库",
+    "IO/Pasted image 20241109160430.png",
+    "IO",
+    "面试/docker",
+    "old/读书笔记/系统设计",
+    "未命名 16.canvas",
+    "未命名 15.canvas",
+    "面试/ddd",
+    "面试/juc",
+    "笔记模板",
+    "面试/数据库/es",
+    "未命名 14.canvas",
+    "未命名 12.canvas",
+    "未命名 13.canvas",
+    "未命名 6.canvas",
+    "未命名 11.canvas"
   ]
 }
