@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "分布式定时任务",
+      "path": "面试/系统设计/分布式定时任务.md"
+    },
+    {
+      "basename": "io模型",
+      "path": "io模型/io模型.md"
+    },
+    {
+      "basename": "2024-12-01",
+      "path": "日记/2024-12-01.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "io模型/未命名.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "书本清单/未命名.md"
+    },
+    {
+      "basename": "Pasted image 20241109155637",
+      "path": "IO/Pasted image 20241109155637.png"
+    },
+    {
+      "basename": "Pasted image 20241109154915",
+      "path": "IO/Pasted image 20241109154915.png"
+    },
+    {
+      "basename": "2024-11-30",
+      "path": "日记/2024-11-30.md"
+    },
+    {
       "basename": "mvcc第二视角",
       "path": "数据库/mvcc第二视角.md"
+    },
+    {
+      "basename": "2024-11-28",
+      "path": "日记/2024-11-28.md"
     },
     {
       "basename": "mvcc并发控制",
@@ -59,10 +95,6 @@
     {
       "basename": "ioc",
       "path": "面试/spring/spring/ioc.md"
-    },
-    {
-      "basename": "分布式定时任务",
-      "path": "面试/系统设计/分布式定时任务.md"
     },
     {
       "basename": "1.面试题",
@@ -167,38 +199,6 @@
     {
       "basename": "内存溢出相关",
       "path": "面试/JVM/内存溢出相关.md"
-    },
-    {
-      "basename": "目录",
-      "path": "面试/JVM/目录.md"
-    },
-    {
-      "basename": "gc",
-      "path": "面试/JVM/gc.md"
-    },
-    {
-      "basename": "jvm结构",
-      "path": "面试/JVM/jvm结构.md"
-    },
-    {
-      "basename": "java内存模型",
-      "path": "面试/JVM/java内存模型.md"
-    },
-    {
-      "basename": "2024-11-09",
-      "path": "日记/2024-11-09.md"
-    },
-    {
-      "basename": "2024-11-08",
-      "path": "日记/2024-11-08.md"
-    },
-    {
-      "basename": "二分",
-      "path": "算法/二分.md"
-    },
-    {
-      "basename": "2024-10-29",
-      "path": "日记/2024-10-29.md"
     }
   ],
   "omittedPaths": [],

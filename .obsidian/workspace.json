@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/mvcc第二视角.md",
+                "file": "io模型/io模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mvcc第二视角"
+              "title": "io模型"
             }
           },
           {
@@ -129,8 +129,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据库/mvcc第二视角.md",
+                "file": "面试/系统设计/分布式定时任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +268,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "mvcc第二视角 的反向链接列表"
+              "title": "分布式定时任务 的反向链接列表"
             }
           },
           {
@@ -329,11 +328,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a9eea8c33e9ba85",
+  "active": "4ba93773656a7bb5",
   "lastOpenFiles": [
+    "io模型/io模型.md",
+    "日记/2024-12-01.md",
+    "io模型/未命名.md",
+    "书本清单/未命名.md",
+    "IO/Pasted image 20241130232056.png",
+    "书本清单",
+    "IO/Pasted image 20241109155637.png",
+    "io模型",
+    "IO/Pasted image 20241109154915.png",
+    "日记/2024-11-30.md",
+    "未命名 1",
+    "数据库/mvcc第二视角.md",
     "数据库/mvcc并发控制.md",
     "日记/2024-11-24.md",
-    "数据库/mvcc第二视角.md",
     "IO/Pasted image 20241124224338.png",
     "IO/Pasted image 20241124224321.png",
     "数据库/目录.md",
@@ -362,25 +372,15 @@
     "未命名 17.canvas",
     "日记/2024-11-20.md",
     "日记/2024-11-19.md",
-    "日记/2024-11-18.md",
-    "日记/2024-11-13.md",
-    "面试/java基础/变量基础.md",
-    "Excalidraw/Drawing 2024-11-13 21.50.14.excalidraw.md",
     "Excalidraw",
-    "IO/Pasted image 20241111214848.png",
-    "IO/Pasted image 20241111214433.png",
     "数据库/clickhouse",
     "数据库",
-    "IO/Pasted image 20241109160430.png",
     "IO",
     "面试/docker",
     "old/读书笔记/系统设计",
     "未命名 16.canvas",
     "未命名 15.canvas",
     "面试/ddd",
-    "面试/juc",
-    "笔记模板",
-    "面试/数据库/es",
     "未命名 14.canvas",
     "未命名 12.canvas",
     "未命名 13.canvas",
