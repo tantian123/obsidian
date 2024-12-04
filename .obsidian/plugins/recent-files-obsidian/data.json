@@ -1,20 +1,176 @@
 {
   "recentFiles": [
     {
-      "basename": "分布式定时任务",
-      "path": "面试/系统设计/分布式定时任务.md"
+      "basename": "目录",
+      "path": "面试/分布式/目录.md"
+    },
+    {
+      "basename": "共识算法",
+      "path": "面试/分布式/共识算法.md"
+    },
+    {
+      "basename": "分布式事务-基于消息",
+      "path": "面试/分布式/分布式事务-基于消息.md"
+    },
+    {
+      "basename": "分布式事务",
+      "path": "面试/分布式/分布式事务.md"
+    },
+    {
+      "basename": "分布式事务-其他",
+      "path": "面试/分布式/分布式事务-其他.md"
+    },
+    {
+      "basename": "分布式事务-AT模式",
+      "path": "面试/分布式/分布式事务-AT模式.md"
+    },
+    {
+      "basename": "分布式事务-XA事务模型",
+      "path": "面试/分布式/分布式事务-XA事务模型.md"
+    },
+    {
+      "basename": "目录",
+      "path": "面试/编程语言基础/java相关/目录.md"
+    },
+    {
+      "basename": "未命名 20",
+      "path": "未命名 20.canvas"
+    },
+    {
+      "basename": "分布式事务",
+      "path": "数据库/分布式事务.md"
+    },
+    {
+      "basename": "秒杀系统场景",
+      "path": "old/系统设计题/秒杀系统场景.md"
+    },
+    {
+      "basename": "未知",
+      "path": "old/读书笔记/未知.md"
+    },
+    {
+      "basename": "分布式",
+      "path": "数据库/分布式.md"
+    },
+    {
+      "basename": "2024-12-04",
+      "path": "日记/2024-12-04.md"
+    },
+    {
+      "basename": "数据库和缓存",
+      "path": "数据库/数据库和缓存.md"
+    },
+    {
+      "basename": "2024-12-02",
+      "path": "日记/2024-12-02.md"
+    },
+    {
+      "basename": "锁",
+      "path": "数据库/锁.md"
+    },
+    {
+      "basename": "数据库思维导图",
+      "path": "数据库/数据库思维导图.md"
+    },
+    {
+      "basename": "思考思路",
+      "path": "数据库/思考思路.md"
+    },
+    {
+      "basename": "mvcc第二视角",
+      "path": "数据库/mvcc第二视角.md"
+    },
+    {
+      "basename": "mvcc并发控制",
+      "path": "数据库/mvcc并发控制.md"
+    },
+    {
+      "basename": "B树",
+      "path": "数据库/B树.md"
+    },
+    {
+      "basename": "杂记",
+      "path": "数据库/杂记.md"
+    },
+    {
+      "basename": "七周七数据库",
+      "path": "数据库/七周七数据库.md"
+    },
+    {
+      "basename": "数据库系统内幕",
+      "path": "数据库/数据库系统内幕.md"
+    },
+    {
+      "basename": "LSM",
+      "path": "数据库/LSM.md"
+    },
+    {
+      "basename": "索引",
+      "path": "数据库/索引.md"
+    },
+    {
+      "basename": "七周七编程语言",
+      "path": "编程语言总结/七周七编程语言.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "编程语言总结/未命名.md"
+    },
+    {
+      "basename": "进程和线程",
+      "path": "操作系统/进程和线程.md"
+    },
+    {
+      "basename": "名词概念",
+      "path": "操作系统/名词概念.md"
+    },
+    {
+      "basename": "同步机制",
+      "path": "操作系统/同步机制.md"
+    },
+    {
+      "basename": "IO 操作系统",
+      "path": "old/操作系统/IO/IO 操作系统.md"
+    },
+    {
+      "basename": "C10K问题",
+      "path": "old/操作系统/C10K问题.md"
+    },
+    {
+      "basename": "线程池参数",
+      "path": "面试/java基础/线程池参数.md"
+    },
+    {
+      "basename": "lambda表达式",
+      "path": "面试/java基础/lambda表达式.md"
     },
     {
       "basename": "io模型",
       "path": "io模型/io模型.md"
     },
     {
+      "basename": "未命名",
+      "path": "io模型/未命名.md"
+    },
+    {
+      "basename": "xxx",
+      "path": "从零学编程/xxx.md"
+    },
+    {
+      "basename": "进程和线程的总结",
+      "path": "面试/进程和线程的总结.md"
+    },
+    {
+      "basename": "协程总结",
+      "path": "面试/协程总结.md"
+    },
+    {
       "basename": "2024-12-01",
       "path": "日记/2024-12-01.md"
     },
     {
-      "basename": "未命名",
-      "path": "io模型/未命名.md"
+      "basename": "分布式定时任务",
+      "path": "面试/系统设计/分布式定时任务.md"
     },
     {
       "basename": "未命名",
@@ -22,27 +178,19 @@
     },
     {
       "basename": "Pasted image 20241109155637",
-      "path": "IO/Pasted image 20241109155637.png"
+      "path": "else/Pasted image 20241109155637.png"
     },
     {
       "basename": "Pasted image 20241109154915",
-      "path": "IO/Pasted image 20241109154915.png"
+      "path": "else/Pasted image 20241109154915.png"
     },
     {
       "basename": "2024-11-30",
       "path": "日记/2024-11-30.md"
     },
     {
-      "basename": "mvcc第二视角",
-      "path": "数据库/mvcc第二视角.md"
-    },
-    {
       "basename": "2024-11-28",
       "path": "日记/2024-11-28.md"
-    },
-    {
-      "basename": "mvcc并发控制",
-      "path": "数据库/mvcc并发控制.md"
     },
     {
       "basename": "2024-11-24",
@@ -51,154 +199,6 @@
     {
       "basename": "目录",
       "path": "数据库/目录.md"
-    },
-    {
-      "basename": "七周七数据库",
-      "path": "数据库/七周七数据库.md"
-    },
-    {
-      "basename": "数据库思维导图",
-      "path": "数据库/数据库思维导图.md"
-    },
-    {
-      "basename": "数据库系统内幕",
-      "path": "数据库/数据库系统内幕.md"
-    },
-    {
-      "basename": "思考思路",
-      "path": "数据库/思考思路.md"
-    },
-    {
-      "basename": "索引",
-      "path": "数据库/索引.md"
-    },
-    {
-      "basename": "B树",
-      "path": "数据库/B树.md"
-    },
-    {
-      "basename": "LSM",
-      "path": "数据库/LSM.md"
-    },
-    {
-      "basename": "杂记",
-      "path": "数据库/杂记.md"
-    },
-    {
-      "basename": "索引",
-      "path": "面试/数据库/mysql/索引.md"
-    },
-    {
-      "basename": "未命名 19",
-      "path": "未命名 19.canvas"
-    },
-    {
-      "basename": "ioc",
-      "path": "面试/spring/spring/ioc.md"
-    },
-    {
-      "basename": "1.面试题",
-      "path": "面试/数据库/mysql/1.面试题.md"
-    },
-    {
-      "basename": "未命名 18",
-      "path": "未命名 18.canvas"
-    },
-    {
-      "basename": "2024-11-23",
-      "path": "日记/2024-11-23.md"
-    },
-    {
-      "basename": "未命名 17",
-      "path": "未命名 17.canvas"
-    },
-    {
-      "basename": "2024-11-20",
-      "path": "日记/2024-11-20.md"
-    },
-    {
-      "basename": "2024-11-19",
-      "path": "日记/2024-11-19.md"
-    },
-    {
-      "basename": "2024-11-18",
-      "path": "日记/2024-11-18.md"
-    },
-    {
-      "basename": "2024-11-13",
-      "path": "日记/2024-11-13.md"
-    },
-    {
-      "basename": "变量基础",
-      "path": "面试/java基础/变量基础.md"
-    },
-    {
-      "basename": "Drawing 2024-11-13 21.50.14.excalidraw",
-      "path": "Excalidraw/Drawing 2024-11-13 21.50.14.excalidraw.md"
-    },
-    {
-      "basename": "文件上传",
-      "path": "面试/系统设计/文件上传.md"
-    },
-    {
-      "basename": "2024-11-12",
-      "path": "日记/2024-11-12.md"
-    },
-    {
-      "basename": "高可用",
-      "path": "面试/数据库/mysql/高可用.md"
-    },
-    {
-      "basename": "日志",
-      "path": "面试/数据库/mysql/日志.md"
-    },
-    {
-      "basename": "sql执行的全过程",
-      "path": "面试/数据库/mysql/sql执行的全过程.md"
-    },
-    {
-      "basename": "postgresql和mysql对比",
-      "path": "面试/数据库/mysql/postgresql和mysql对比.md"
-    },
-    {
-      "basename": "锁",
-      "path": "面试/数据库/mysql/锁.md"
-    },
-    {
-      "basename": "事务",
-      "path": "面试/数据库/mysql/事务.md"
-    },
-    {
-      "basename": "2024-11-11",
-      "path": "日记/2024-11-11.md"
-    },
-    {
-      "basename": "2024-11-10",
-      "path": "日记/2024-11-10.md"
-    },
-    {
-      "basename": "目录",
-      "path": "数据库/clickhouse/目录.md"
-    },
-    {
-      "basename": "反射",
-      "path": "面试/java基础/反射.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "面试/java基础/未命名.md"
-    },
-    {
-      "basename": "线程池参数",
-      "path": "面试/java基础/线程池参数.md"
-    },
-    {
-      "basename": "Java对象的内存结构",
-      "path": "面试/JVM/Java对象的内存结构.md"
-    },
-    {
-      "basename": "内存溢出相关",
-      "path": "面试/JVM/内存溢出相关.md"
     }
   ],
   "omittedPaths": [],
