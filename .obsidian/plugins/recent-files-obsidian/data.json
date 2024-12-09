@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "innodb架构",
+      "path": "数据库/innodb架构.md"
+    },
+    {
+      "basename": "MYSQL主从",
+      "path": "数据库/MYSQL主从.md"
+    },
+    {
+      "basename": "存储引擎",
+      "path": "数据库/存储引擎.md"
+    },
+    {
+      "basename": "bufferpool",
+      "path": "数据库/bufferpool.md"
+    },
+    {
+      "basename": "目录",
+      "path": "数据库/目录.md"
+    },
+    {
+      "basename": "MVCC（多版本并发控制）",
+      "path": "面试/mysql/MVCC（多版本并发控制）.md"
+    },
+    {
+      "basename": "目录",
+      "path": "面试/mysql/目录.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "编程语言/未命名.md"
+    },
+    {
+      "basename": "如何看字节码文件",
+      "path": "编程语言/如何看字节码文件.md"
+    },
+    {
+      "basename": "讲讲js的原型",
+      "path": "编程语言/讲讲js的原型.md"
+    },
+    {
+      "basename": "2024-12-09",
+      "path": "日记/2024-12-09.md"
+    },
+    {
       "basename": "目录",
       "path": "面试/分布式/目录.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "xxx",
       "path": "从零学编程/xxx.md"
-    },
-    {
-      "basename": "进程和线程的总结",
-      "path": "面试/进程和线程的总结.md"
-    },
-    {
-      "basename": "协程总结",
-      "path": "面试/协程总结.md"
-    },
-    {
-      "basename": "2024-12-01",
-      "path": "日记/2024-12-01.md"
-    },
-    {
-      "basename": "分布式定时任务",
-      "path": "面试/系统设计/分布式定时任务.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "书本清单/未命名.md"
-    },
-    {
-      "basename": "Pasted image 20241109155637",
-      "path": "else/Pasted image 20241109155637.png"
-    },
-    {
-      "basename": "Pasted image 20241109154915",
-      "path": "else/Pasted image 20241109154915.png"
-    },
-    {
-      "basename": "2024-11-30",
-      "path": "日记/2024-11-30.md"
-    },
-    {
-      "basename": "2024-11-28",
-      "path": "日记/2024-11-28.md"
-    },
-    {
-      "basename": "2024-11-24",
-      "path": "日记/2024-11-24.md"
-    },
-    {
-      "basename": "目录",
-      "path": "数据库/目录.md"
     }
   ],
   "omittedPaths": [],
