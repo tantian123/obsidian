@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "操作系统的mutex锁",
+      "path": "随便记记/操作系统的mutex锁.md"
+    },
+    {
+      "basename": "锁相关",
+      "path": "面试/juc/锁相关.md"
+    },
+    {
+      "basename": "synchronized",
+      "path": "随便记记/synchronized.md"
+    },
+    {
+      "basename": "volatile",
+      "path": "随便记记/volatile.md"
+    },
+    {
+      "basename": "操作系统的管程模型",
+      "path": "随便记记/操作系统的管程模型.md"
+    },
+    {
+      "basename": "数据库系统内幕",
+      "path": "数据库/数据库系统内幕.md"
+    },
+    {
+      "basename": "2024-12-14",
+      "path": "日记/2024-12-14.md"
+    },
+    {
+      "basename": "2024-12-16",
+      "path": "日记/2024-12-16.md"
+    },
+    {
+      "basename": "2024-12-11",
+      "path": "日记/2024-12-11.md"
+    },
+    {
       "basename": "innodb架构",
       "path": "数据库/innodb架构.md"
     },
@@ -141,10 +177,6 @@
       "path": "数据库/七周七数据库.md"
     },
     {
-      "basename": "数据库系统内幕",
-      "path": "数据库/数据库系统内幕.md"
-    },
-    {
       "basename": "LSM",
       "path": "数据库/LSM.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "名词概念",
       "path": "操作系统/名词概念.md"
-    },
-    {
-      "basename": "同步机制",
-      "path": "操作系统/同步机制.md"
-    },
-    {
-      "basename": "IO 操作系统",
-      "path": "old/操作系统/IO/IO 操作系统.md"
-    },
-    {
-      "basename": "C10K问题",
-      "path": "old/操作系统/C10K问题.md"
-    },
-    {
-      "basename": "线程池参数",
-      "path": "面试/java基础/线程池参数.md"
-    },
-    {
-      "basename": "lambda表达式",
-      "path": "面试/java基础/lambda表达式.md"
-    },
-    {
-      "basename": "io模型",
-      "path": "io模型/io模型.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "io模型/未命名.md"
-    },
-    {
-      "basename": "xxx",
-      "path": "从零学编程/xxx.md"
     }
   ],
   "omittedPaths": [],
