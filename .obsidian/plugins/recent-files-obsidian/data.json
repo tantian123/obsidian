@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "操作系统的mutex锁",
-      "path": "随便记记/操作系统的mutex锁.md"
+      "basename": "操作系统的管程模型",
+      "path": "随便记记/操作系统的管程模型.md"
+    },
+    {
+      "basename": "线程和cpu",
+      "path": "随便记记/线程和cpu.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "随便记记/未命名.md"
+    },
+    {
+      "basename": "2024-12-14",
+      "path": "日记/2024-12-14.md"
     },
     {
       "basename": "锁相关",
       "path": "面试/juc/锁相关.md"
+    },
+    {
+      "basename": "操作系统的mutex锁",
+      "path": "随便记记/操作系统的mutex锁.md"
+    },
+    {
+      "basename": "2024-12-23",
+      "path": "日记/2024-12-23.md"
+    },
+    {
+      "basename": "2024-12-17",
+      "path": "日记/2024-12-17.md"
     },
     {
       "basename": "synchronized",
@@ -17,16 +41,8 @@
       "path": "随便记记/volatile.md"
     },
     {
-      "basename": "操作系统的管程模型",
-      "path": "随便记记/操作系统的管程模型.md"
-    },
-    {
       "basename": "数据库系统内幕",
       "path": "数据库/数据库系统内幕.md"
-    },
-    {
-      "basename": "2024-12-14",
-      "path": "日记/2024-12-14.md"
     },
     {
       "basename": "2024-12-16",
@@ -183,22 +199,6 @@
     {
       "basename": "索引",
       "path": "数据库/索引.md"
-    },
-    {
-      "basename": "七周七编程语言",
-      "path": "编程语言总结/七周七编程语言.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "编程语言总结/未命名.md"
-    },
-    {
-      "basename": "进程和线程",
-      "path": "操作系统/进程和线程.md"
-    },
-    {
-      "basename": "名词概念",
-      "path": "操作系统/名词概念.md"
     }
   ],
   "omittedPaths": [],
