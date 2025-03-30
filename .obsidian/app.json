@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "IO",
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true
 }
