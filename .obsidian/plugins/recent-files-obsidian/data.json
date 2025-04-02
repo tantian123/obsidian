@@ -1,16 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "redis作用",
-      "path": "八股文/redis/redis作用.md"
+      "basename": "讲讲AOP",
+      "path": "八股文/spring/讲讲AOP.md"
+    },
+    {
+      "basename": "讲讲IOC",
+      "path": "八股文/spring/讲讲IOC.md"
+    },
+    {
+      "basename": "aop",
+      "path": "编程/spring/aop.md"
+    },
+    {
+      "basename": "spring全梳理",
+      "path": "八股文/spring全梳理.md"
+    },
+    {
+      "basename": "ioc",
+      "path": "面试/spring/spring/ioc.md"
+    },
+    {
+      "basename": "aop",
+      "path": "面试/spring/spring/aop.md"
+    },
+    {
+      "basename": "目录",
+      "path": "八股文/spring/目录.md"
+    },
+    {
+      "basename": "核心目录",
+      "path": "old/spring/核心目录.md"
+    },
+    {
+      "basename": "官方文档总结笔记",
+      "path": "old/spring/官方文档总结笔记.md"
+    },
+    {
+      "basename": "spring面试题",
+      "path": "八股文/spring/spring面试题.md"
+    },
+    {
+      "basename": "依赖注入深入理解",
+      "path": "八股文/spring/依赖注入深入理解.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "编程思想/未命名.md"
+    },
+    {
+      "basename": "2025-04-02",
+      "path": "日记/2025-04-02.md"
+    },
+    {
+      "basename": "软件架构",
+      "path": "深度思考/软件架构.md"
+    },
+    {
+      "basename": "设计原则",
+      "path": "深度思考/设计原则.md"
+    },
+    {
+      "basename": "2025-04-01",
+      "path": "日记/2025-04-01.md"
+    },
+    {
+      "basename": "慢sql",
+      "path": "八股文/慢sql.md"
+    },
+    {
+      "basename": "分布式限流",
+      "path": "八股文/分布式限流.md"
+    },
+    {
+      "basename": "分布式锁",
+      "path": "八股文/分布式锁.md"
+    },
+    {
+      "basename": "分布式事务",
+      "path": "八股文/分布式事务.md"
+    },
+    {
+      "basename": "docker全梳理",
+      "path": "八股文/docker全梳理.md"
+    },
+    {
+      "basename": "redis全梳理",
+      "path": "八股文/redis全梳理.md"
+    },
+    {
+      "basename": "CICD",
+      "path": "八股文/CICD.md"
+    },
+    {
+      "basename": "2025-03-31",
+      "path": "日记/2025-03-31.md"
+    },
+    {
+      "basename": "渐进式rehash",
+      "path": "八股文/redis/渐进式rehash.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "八股文/redis/数据结构.md"
+    },
+    {
+      "basename": "缓存和数据库一致性",
+      "path": "八股文/redis/缓存和数据库一致性.md"
     },
     {
       "basename": "redis缓存穿透 缓存击穿 缓存雪崩",
       "path": "八股文/redis/redis缓存穿透 缓存击穿 缓存雪崩.md"
     },
     {
-      "basename": "redis哈希策略 rehash相关",
-      "path": "八股文/redis/redis哈希策略 rehash相关.md"
+      "basename": "目录",
+      "path": "八股文/redis/目录.md"
+    },
+    {
+      "basename": "内存淘汰策略",
+      "path": "八股文/redis/内存淘汰策略.md"
+    },
+    {
+      "basename": "为什么快",
+      "path": "八股文/redis/为什么快.md"
+    },
+    {
+      "basename": "整体架构",
+      "path": "八股文/redis/整体架构.md"
+    },
+    {
+      "basename": "主从 哨兵 集群",
+      "path": "八股文/redis/主从 哨兵 集群.md"
+    },
+    {
+      "basename": "redis持久化",
+      "path": "八股文/redis/redis持久化.md"
     },
     {
       "basename": "redis分布式锁",
@@ -21,8 +145,32 @@
       "path": "八股文/redis/Redis分布式限流.md"
     },
     {
-      "basename": "未命名",
-      "path": "八股文/java/未命名.md"
+      "basename": "redis哈希策略 rehash相关",
+      "path": "八股文/redis/redis哈希策略 rehash相关.md"
+    },
+    {
+      "basename": "redis作用",
+      "path": "八股文/redis/redis作用.md"
+    },
+    {
+      "basename": "过期策略",
+      "path": "八股文/redis/过期策略.md"
+    },
+    {
+      "basename": "消息队列全梳理",
+      "path": "八股文/消息队列全梳理.md"
+    },
+    {
+      "basename": "数据库全梳理",
+      "path": "八股文/数据库全梳理.md"
+    },
+    {
+      "basename": "算法题全梳理",
+      "path": "八股文/算法题全梳理.md"
+    },
+    {
+      "basename": "面试技巧",
+      "path": "八股文/面试技巧.md"
     },
     {
       "basename": "未命名",
@@ -34,171 +182,23 @@
     },
     {
       "basename": "未命名",
+      "path": "八股文/场景/未命名.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "八股文/内功/未命名.md"
+    },
+    {
+      "basename": "未命名",
       "path": "八股文/数据库/未命名.md"
     },
     {
-      "basename": "慢sql",
-      "path": "八股文/慢sql.md"
-    },
-    {
-      "basename": "分布式限流",
-      "path": "八股文/分布式限流.md"
+      "basename": "未命名",
+      "path": "八股文/java/未命名.md"
     },
     {
       "basename": "分库分表 数据倾斜",
       "path": "八股文/分库分表 数据倾斜.md"
-    },
-    {
-      "basename": "为什么快",
-      "path": "八股文/redis/为什么快.md"
-    },
-    {
-      "basename": "限流设计",
-      "path": "old/系统设计题/限流设计.md"
-    },
-    {
-      "basename": "消息队列全梳理",
-      "path": "八股文/消息队列全梳理.md"
-    },
-    {
-      "basename": "场景题",
-      "path": "面试/rocketmq/场景题.md"
-    },
-    {
-      "basename": "动态定时任务",
-      "path": "面试/系统设计/动态定时任务.md"
-    },
-    {
-      "basename": "算法题全梳理",
-      "path": "八股文/算法题全梳理.md"
-    },
-    {
-      "basename": "2025-03-30",
-      "path": "日记/2025-03-30.md"
-    },
-    {
-      "basename": "数据库全梳理",
-      "path": "八股文/数据库全梳理.md"
-    },
-    {
-      "basename": "面试技巧",
-      "path": "八股文/面试技巧.md"
-    },
-    {
-      "basename": "分布式锁",
-      "path": "八股文/分布式锁.md"
-    },
-    {
-      "basename": "分布式事务",
-      "path": "八股文/分布式事务.md"
-    },
-    {
-      "basename": "学习计划",
-      "path": "八股文/学习计划.md"
-    },
-    {
-      "basename": "整体架构",
-      "path": "八股文/redis/整体架构.md"
-    },
-    {
-      "basename": "主从 哨兵 集群",
-      "path": "八股文/redis/主从 哨兵 集群.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "八股文/redis/数据结构.md"
-    },
-    {
-      "basename": "目录",
-      "path": "八股文/redis/目录.md"
-    },
-    {
-      "basename": "redis持久化",
-      "path": "八股文/redis/redis持久化.md"
-    },
-    {
-      "basename": "缓存和数据库一致性",
-      "path": "八股文/redis/缓存和数据库一致性.md"
-    },
-    {
-      "basename": "过期策略",
-      "path": "八股文/redis/过期策略.md"
-    },
-    {
-      "basename": "redis面试题",
-      "path": "八股文/数据库/redis面试题.md"
-    },
-    {
-      "basename": "相关名词",
-      "path": "redis/相关名词.md"
-    },
-    {
-      "basename": "3.redis高可用",
-      "path": "面试/redis/3.redis高可用.md"
-    },
-    {
-      "basename": "1.面试题",
-      "path": "面试/数据库/mysql/1.面试题.md"
-    },
-    {
-      "basename": "2.redis持久化",
-      "path": "面试/redis/2.redis持久化.md"
-    },
-    {
-      "basename": "大key",
-      "path": "面试/redis/大key.md"
-    },
-    {
-      "basename": "主从复制",
-      "path": "redis/主从复制.md"
-    },
-    {
-      "basename": "缓存一致性",
-      "path": "redis/缓存一致性.md"
-    },
-    {
-      "basename": "缓存",
-      "path": "old/redis/缓存.md"
-    },
-    {
-      "basename": "分布式",
-      "path": "数据库/分布式.md"
-    },
-    {
-      "basename": "5.缓存相关",
-      "path": "面试/redis/5.缓存相关.md"
-    },
-    {
-      "basename": "redis全梳理",
-      "path": "八股文/redis全梳理.md"
-    },
-    {
-      "basename": "面试题汇总",
-      "path": "面试/redis/面试题汇总.md"
-    },
-    {
-      "basename": "目录",
-      "path": "面试/redis/目录.md"
-    },
-    {
-      "basename": "1.redis基础架构",
-      "path": "面试/redis/1.redis基础架构.md"
-    },
-    {
-      "basename": "4.删除和淘汰策略",
-      "path": "面试/redis/4.删除和淘汰策略.md"
-    },
-    {
-      "basename": "分布式事务-XA事务模型",
-      "path": "面试/分布式/分布式事务-XA事务模型.md"
-    },
-    {
-      "basename": "6.系统设计",
-      "path": "面试/redis/6.系统设计.md"
-    },
-    {
-      "basename": "docker全梳理",
-      "path": "八股文/docker全梳理.md"
     }
   ],
   "omittedPaths": [],
